@@ -1,0 +1,14 @@
+package hari.pertama;
+
+public class HariPertama {
+
+ public static void main(String[] args) {
+System.out.println("halo guys"); //println akan mencetak dengan adanya enter atau penambahan baris pada kalimat berikutnya
+System.out.print("adakah seratus?"); //print akan mencetak tanpa adanya enter atau penambahan baris pada kalimat berikutnya
+
+
+//project pertama yang di ajarkan oleh kak Khaeril dan kak Merry
+       
+    }
+
+}
